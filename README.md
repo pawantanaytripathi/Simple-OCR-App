@@ -7,7 +7,7 @@ An kotlin based android app which can transfer text on paper to your android pho
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following dependencies-
+Install the following dependencies-
 
 ```bash
 Install Android Studio.
